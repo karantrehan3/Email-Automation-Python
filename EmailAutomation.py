@@ -59,10 +59,11 @@ if __name__ == '__main__':
     the object of the EmailAutomation class which in turn would send the
     automated mail to the destination email address.
     """
-
+    
     # The condition below can be altered based on the requirements
     if True:
-        email_object = EmailAutomation('mtesting2000@gmail.com',
-                                       '#Karan2782',
-                                       'wapelo8845@cocyo.com',
-                                       'Automated Email')
+        email_object = EmailAutomation('YOUR EMAIL ADDRESS HERE',
+                                       'YOUR PASSWORD HERE',
+                                       'RECEIVER EMAIL ADDRESS HERE',
+                                       'SUBJECT OF THE EMAIL')
+        
