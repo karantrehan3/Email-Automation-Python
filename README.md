@@ -142,5 +142,5 @@ This is a test email.
 This email is sent through a python script.
 ```
 
-## Ouput:
+## Output:
 ![image](https://drive.google.com/uc?export=view&id=1aNOZgRWUxV6RjQaAjPKlwWpNNQHAw-Et)
