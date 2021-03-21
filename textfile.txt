@@ -1,0 +1,3 @@
+Hello!
+This is a test email.
+This email is sent through a python script.
